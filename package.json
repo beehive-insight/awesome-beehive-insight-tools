@@ -1,0 +1,14 @@
+{
+    "name": "awesome-beehive-insight-tools",
+    "private": true,
+    "version": "0.0.0",
+    "description": "Distribution / release repository for open-source tools maintained by the beehive-insight organization. Not an npm package — no published artifacts.",
+    "type": "module",
+    "engines": {
+        "node": ">=18"
+    },
+    "scripts": {
+        "release": "node scripts/release.mjs",
+        "changelog": "node scripts/changelog.mjs"
+    }
+}

@@ -1,0 +1,17 @@
+# build / release assets — generated locally, uploaded via GitHub Releases
+tools/*/dist/
+tools/*/build/
+tools/*/assets/
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# logs
+*.log
