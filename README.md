@@ -11,7 +11,8 @@ beehive-insight 组织下的开源工具**分发仓库**。本仓库不托管源
 
 | 工具                                   | 版本  | 平台        | 文档                                                                                    |
 | -------------------------------------- | ----- | ----------- | --------------------------------------------------------------------------------------- |
-| [file2markdown](./tools/file2markdown) | 0.3.0 | windows-x64 | [中文](./tools/file2markdown/README.md) · [English](./tools/file2markdown/README.en.md) |
+| [file2markdown](./tools/file2markdown)   | 0.3.1 | windows-x64 | [中文](./tools/file2markdown/README.md) · [English](./tools/file2markdown/README.en.md) |
+| [git-status-checker](./tools/git-status-checker) | 0.1.0 | windows-x64 | [中文](./tools/git-status-checker/README.md) · [English](./tools/git-status-checker/README.en.md) |
 
 ## 如何新增一个工具
 
