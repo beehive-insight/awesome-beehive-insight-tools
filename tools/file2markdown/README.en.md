@@ -21,9 +21,9 @@ Double-click `file2markdown.exe` to launch the GUI:
 - Output directory is auto-created next to the input file by default, or pick a single shared directory
 - Real-time progress and logs are shown in the UI
 
-![image-20260929172048964](./images/image-20260929172048964.png)
+![image-20261024145822759](./images/image-20261024145822759.png)
 
-![image-20260929172201960](./images/image-20260929172151115.png)
+![image-20261024145851177](./images/image-20261024145851177.png)
 
 ### Command Line (for AI or advanced users)
 
