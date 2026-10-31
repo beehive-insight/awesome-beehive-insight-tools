@@ -7,6 +7,10 @@ tools/*/assets/
 node_modules/
 npm-debug.log*
 
+# Python
+__pycache__/
+*.py[cod]
+
 # OS / editor
 .DS_Store
 Thumbs.db
